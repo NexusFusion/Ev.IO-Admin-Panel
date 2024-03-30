@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Simple Narrow.one Admin Panel(Easter egg located in menu)
-// @author       You
+// @author       NexusFusion
 // @include      *://narrow.one/*
 // @run-at       document-body
 // @grant        unsafeWindow
